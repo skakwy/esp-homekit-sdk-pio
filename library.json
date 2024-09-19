@@ -18,9 +18,14 @@
   ],
   "license": "MIT",
   "homepage": "https://www.helloworld.org/",
-  "dependencies": {
+  "dependencies": [{
     "ownername/print": "~1.3.0"
   },
+    {
+      "name":"jsmn",
+      "version":"*"
+    }
+  ],
   "frameworks": "espidf",
   "platforms": "espressif32"
 }
