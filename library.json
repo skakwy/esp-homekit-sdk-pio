@@ -1,0 +1,26 @@
+{
+  "name": "esp homekit sdk",
+  "version": "1.0.0",
+  "description": "esp homekit sdk forked from the original espressif homekit sdk",
+  "keywords": "homekit, sdk, esp",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/skakwy/esp-homekit-sdk-pio.git"
+  },
+  "authors":
+  [
+    {
+      "name": "skakwy",
+      "email": "skakwy@outlook.de",
+      "url": "https://www.youtube.com/watch?v=U4NJ-ozqoKc&t=196s"
+    },
+  ],
+  "license": "MIT",
+  "homepage": "https://www.helloworld.org/",
+  "dependencies": {
+    "ownername/print": "~1.3.0"
+  },
+  "frameworks": "espidf",
+  "platforms": "espressif3"
+}
